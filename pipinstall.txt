@@ -1,3 +1,6 @@
 flask
-Flask-SQLAlchemy
 flask-login
+mysql.connector
+python-dotenv
+mysql-connector-python
+requests
